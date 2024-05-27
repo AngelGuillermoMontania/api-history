@@ -1,1 +1,8 @@
-node_modules
+api_history_env
+api_history_env/
+
+.env
+*/.env
+
+__pycache__/
+*.py[cod]
